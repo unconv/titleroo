@@ -1,0 +1,8 @@
+images/*
+!images/.gitkeep
+audio/*
+!audio/.gitkeep
+settings.php
+*.mp3
+*.mp4
+*.txt
